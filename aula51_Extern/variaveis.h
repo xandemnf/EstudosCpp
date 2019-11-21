@@ -1,0 +1,7 @@
+#ifndef VARIAVEIS_H_INCLUDED
+#define VARIAVEIS_H_INCLUDED
+
+auto tmp=1000;
+
+
+#endif // VARIAVEIS_H_INCLUDED
